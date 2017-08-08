@@ -1,2 +1,2 @@
 include *.txt *.ini *.cfg *.rst
-recursive-include texture_warpper *.ico *.png *.css *.gif *.jpg *.pt *.txt *.mak *.mako *.js *.html *.xml *.jinja2 *.tif *.pdf *.xml
+recursive-include texture_warpper *.ico *.png *.css *.gif *.jpg *.pt *.txt *.mak *.mako *.js *.html *.xml *.jinja2 *.tif *.pdf *.xml *.mako
