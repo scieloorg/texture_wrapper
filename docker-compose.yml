@@ -1,0 +1,7 @@
+version: '2'
+
+services:
+  texture-wrapper:
+    build:
+      image: scieloorg/texture-wrapper:stable
+    command: pserve config.ini --reload

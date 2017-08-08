@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink"
+	article-type="case-report" dtd-version="1.0" specific-use="sps-1.6" xml:lang="en">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="nlm-ta">Arq Bras Cardiol</journal-id>
+			<journal-id journal-id-type="publisher-id">abc</journal-id>
+			<journal-title-group>
+				<journal-title>Arquivos Brasileiros de Cardiologia</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Arq. Bras.
+					Cardiol.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0066-782X</issn>
+			<issn pub-type="epub">1678-4170</issn>
+			<publisher>
+				<publisher-name>Sociedade Brasileira de Cardiologia - SBC</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.5935/abc.20170075</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Case Report</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Symptomatic Exercise-induced Intraventricular Gradient in Competitive
+					Athlete</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Dores</surname>
+						<given-names>Helder</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">1</xref>
+					<xref ref-type="aff" rid="aff2">2</xref>
+					<xref ref-type="aff" rid="aff3">3</xref>
+					<xref ref-type="aff" rid="aff4">4</xref>
+					<xref ref-type="corresp" rid="c1"/>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mendes</surname>
+						<given-names>Lígia</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">1</xref>
+					<xref ref-type="aff" rid="aff2">2</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ferreira</surname>
+						<given-names>António</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2">2</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Santos</surname>
+						<given-names>Jose Ferreira</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">1</xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="orgname">Hospital da Luz Setúbal</institution>
+				<addr-line>
+					<named-content content-type="city">Setúbal</named-content>
+				</addr-line>
+				<country country="PT">Portugal</country>
+				<institution content-type="original">Hospital da Luz Setúbal, Setúbal -
+					Portugal</institution>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="orgname">Hospital da Luz Lisboa</institution>
+				<addr-line>
+					<named-content content-type="city">Lisboa</named-content>
+				</addr-line>
+				<country country="PT">Portugal</country>
+				<institution content-type="original">Hospital da Luz Lisboa, Lisboa -
+					Portugal</institution>
+			</aff>
+			<aff id="aff3">
+				<label>3</label>
+				<institution content-type="orgname">Hospital das Forças Armadas</institution>
+				<addr-line>
+					<named-content content-type="city">Lisboa</named-content>
+				</addr-line>
+				<country country="PT">Portugal</country>
+				<institution content-type="original">Hospital das Forças Armadas, Lisboa -
+					Portugal</institution>
+			</aff>
+			<aff id="aff4">
+				<label>4</label>
+				<institution content-type="orgname">NOVA Medical School</institution>
+				<addr-line>
+					<named-content content-type="city">Lisboa</named-content>
+				</addr-line>
+				<country country="PT">Portugal</country>
+				<institution content-type="original">NOVA Medical School, Lisboa -
+					Portugal</institution>
+			</aff>
+			<author-notes>
+				<corresp id="c1"><bold>Mailing Address: Helder Dores,</bold> Serviço de Cardiologia
+					- Hospital das Forças Armadas, Rua José Cardoso Pires, N5, 7ª. Postal Code:
+					1750-356, Lumiar, Lisboa - Portugal. E-mail: <email>heldores@hotmail.com</email>
+				</corresp>
+				<fn fn-type="con">
+					<p><bold>Author contributions</bold></p>
+					<p>Conception and design of the research: Dores H, Mendes L; Acquisition of
+						data: Dores H, Mendes L, Ferreira A; Writing of the manuscript: Dores H;
+						Critical revision of the manuscript for intellectual content: Dores H,
+						Mendes L, Ferreira A, Santos JF.</p>
+				</fn>
+				<fn fn-type="conflict">
+					<p><bold>Potential Conflict of Interest</bold></p>
+					<p>No potential conflict of interest relevant to this article was reported.</p>
+				</fn>
+			</author-notes>
+			<pub-date pub-type="epub-ppub">
+				<month>07</month>
+				<year>2017</year>
+			</pub-date>
+			<volume>109</volume>
+			<issue>1</issue>
+			<fpage>87</fpage>
+			<lpage>89</lpage>
+			<history>
+				<date date-type="received">
+					<day>02</day>
+					<month>12</month>
+					<year>2015</year>
+				</date>
+				<date date-type="rev-recd">
+					<day>14</day>
+					<month>12</month>
+					<year>2015</year>
+				</date>
+				<date date-type="accepted">
+					<day>07</day>
+					<month>03</month>
+					<year>2016</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access"
+					xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+					<license-p>This is an Open Access article distributed under the terms of the
+						Creative Commons Attribution License, which permits unrestricted use,
+						distribution, and reproduction in any medium, provided the original work is
+						properly cited.</license-p>
+				</license>
+			</permissions>
+			<kwd-group xml:lang="en">
+				<title>Keywords</title>
+				<kwd>Athletes</kwd>
+				<kwd>Echocardiography, Stress</kwd>
+				<kwd>Heart Ventricles/physiopathology</kwd>
+				<kwd>Exercise Test/adverse effects</kwd>
+				<kwd>Ventricular Dysfunction/etiology</kwd>
+			</kwd-group>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="cases">
+			<title>Case Report</title>
+			<p>We describe the case of a 17-year-old caucasian male tennis player, training a mean
+				of 20-24h/week, refereed for evaluation in Sport’s Cardiology clinic due to symptoms
+				of dizziness on strenuous exercise, relieving soon after decubitus. The athlete
+				denied other concomitant complaints, namely thoracic pain, palpitations, syncope or
+				decrease in physical performance. Although this is the most symptomatic episode, he
+				revealed other prior episodes with similar presentation, but less intense and
+				occurring in environments with high temperatures. Personal/family history was
+				unremarkable and all pre-competitive evaluations were normal and without
+				restrictions for competitive sport. Physical examination did not show significant
+				findings - cardiac evaluation was normal, heart rate and blood pressure at rest were
+				52 bpm 121/64mmHg respectively.</p>
+			<p>The 12-lead electrocardiogram and transthoracic echocardiogram did not show
+				pathological findings, only cardiac physiological adaptations to exercise (<xref
+					ref-type="fig" rid="f1">Figure 1</xref>). Subsequently the athlete underwent a
+				treadmill exercise stress echocardiogram revealing an excellent functional capacity
+				(19’09’’ of Bruce protocol, 19.3METs), but with reproduction of symptoms (dizziness)
+				in the peak of exercise with simultaneous decrease in systolic blood pressure
+				(185&#x2794;90mmHg) and detection of intraventricular gradient (IVG) - at least
+				69mmHg (<xref ref-type="fig" rid="f2">Figure 2</xref>). In the first minute of
+				recovery the symptoms disappeared and blood pressure normalized.</p>
+			<p>
+				<fig id="f1">
+					<label>Figure 1</label>
+					<caption>
+						<title>Transthoracic echocardiogram at rest without evidence of significant
+							morfo-functional abnormalities - left ventricle dimensions (LV) by M
+							Mode (A), volumes and LV ejection fraction (B), tissular Doppler at
+							mitral ring (C) and global longitudinal strain (D).</title>
+					</caption>
+					<graphic xlink:href="0066-782X-abc-109-01-0087-gf01.tif"/>
+				</fig>
+			</p>
+			<p>
+				<fig id="f2">
+					<label>Figure 2</label>
+					<caption>
+						<title>Exercise stress echocardiogram performed in treadmill with Bruce
+							protocol, revealing a significant decrease in systolic blood pressure
+							(185 &#x2794; 90mmHg) in peak of exercise, with concomitant detection of
+							IVG (bottom picture).</title>
+					</caption>
+					<graphic xlink:href="0066-782X-abc-109-01-0087-gf02.tif"/>
+				</fig>
+			</p>
+			<p>The athlete was advertised to stop the sportive practice. An ambulatory 24h-Holter
+				monitoring and cardiac magnetic resonance were subsequently performed, not showing
+				pathological changes, namely arrhythmias or structural cardiac abnormalities.</p>
+			<p>After these investigations the case was discussed with involvement of the athlete,
+				parents and coach. It was decided to reinitiate exercise with a gradual increase in
+				intensity and volume of training, with the special advertising to increase hydration
+				(apparently suboptimal according to the coach report) and to begin beta-blocker
+				therapy if the symptoms persist. After 18 months of follow-up the athlete remain
+				asymptomatic, with excellent performance and without need of pharmacologic
+				therapy.</p>
+		</sec>
+		<sec sec-type="discussion">
+			<title>Discussion</title>
+			<p>The development of significant exercise-induced IVG (&gt;30mmHg at rest or &gt;50mmHg
+				with exercise) is uncommon, but can lead to several and unspecific symptoms such as
+				dizziness, thoracic pain, or even ventricular repolarization changes and arrhythmias
+				during exercise test.<xref ref-type="bibr" rid="B1">1</xref><sup>,</sup><xref
+					ref-type="bibr" rid="B2">2</xref> This condition is usually associated to global
+				or segmental left ventricular hypertrophy or an abnormal implantation of the
+				papillary muscles, but the pathophysiological mechanisms are not well established.
+				Three potential mechanisms are purposed for the development of IVG:</p>
+			<p>
+				<list list-type="simple">
+					<list-item>
+						<p>a) Increase of physiological non-obstructive IVGs;</p>
+					</list-item>
+					<list-item>
+						<p>b) End-systolic obstruction secondary to ventricular cavity
+							obliteration;</p>
+					</list-item>
+					<list-item>
+						<p>c) Mid-systolic obstruction due to systolic anterior motion of the mitral
+							valve with restriction of ejection flow.<xref ref-type="bibr" rid="B3"
+								>3</xref><sup>,</sup><xref ref-type="bibr" rid="B4">4</xref>
+						</p>
+					</list-item>
+				</list>
+			</p>
+			<p>In a study performed by Zywca et al.<xref ref-type="bibr" rid="B5">5</xref> the
+				independent predictors of dynamic left ventricular outflow tract obstruction in
+				individuals without hypertrophic cardiomyopathy were: chordal systolic anterior
+				motion, smaller left ventricle at end-systole, higher systolic blood pressure at
+				peak, younger individuals and increased septal wall thickness.<xref ref-type="bibr"
+					rid="B5">5</xref> However, as in the case reported, IVG can occur without
+				structural cardiac changes, namely of the mitral valve apparatus, and eventually
+				justified by extreme myocardial deformation in response to load conditions.<xref
+					ref-type="bibr" rid="B3">3</xref> In this context, IVG is more frequently
+				described in athletes or in situations with increased inotropic stimuli as during
+				dobutamine stress echocardiogram.<xref ref-type="bibr" rid="B6"
+					>6</xref><sup>,</sup><xref ref-type="bibr" rid="B7">7</xref> Exercise stress
+				echocardiogram plays a relevant role in the evaluation of symptomatic athletes, with
+				reproduction of symptoms and the potential detection of significant IVGs.<xref
+					ref-type="bibr" rid="B1">1</xref><sup>,</sup><xref ref-type="bibr" rid="B8"
+					>8</xref></p>
+			<p>The clinical significance of IVG remains unknown - it could be one extreme
+				physiological adaptation to exercise, one isolated pathological entity or in the
+				other hand corresponds to a pre-phenotypic finding of cardiomyopathy.</p>
+			<p>Regarding the preventive/therapeutic measures to adopt in the presence of an athlete
+				with IVG, maintenance adequate hydration during exercise is crucial, often
+				sufficient for the remission of symptoms. Exercising under higher temperatures
+				without adequate hydration can increase the gradient secondary to left ventricle
+				cavity obliteration. Among the pharmacological therapy, the evidence indicates a
+				significant effectiveness of beta-blocker therapy, both in the remission of symptoms
+				and in the remission/disappearance of IVG.<xref ref-type="bibr" rid="B1"
+					>1</xref><sup>,</sup><xref ref-type="bibr" rid="B9">9</xref></p>
+			<p>The small published data and the short follow-up of athletes with IVG did not permit
+				definite conclusions regarding the prognostic impact, but there are not described
+				fatal clinical events in athletes with IVG without structural cardiac changes. In
+				this setting there are not specific recommendations relatively to competitive sport
+				in athletes with IVG.<xref ref-type="bibr" rid="B10">10</xref><sup>,</sup><xref
+					ref-type="bibr" rid="B11">11</xref> In general, if an athlete is still
+				symptomatic despite the stressed preventive/therapeutic measures, it is not advised
+				to maintain sportive practice, especially with the intensity of exercise that
+				precipitates the symptoms, and this should be regularly evaluated during
+				follow-up.</p>
+			<p>Shortly, in the presence of an athlete with exercise-induced symptoms, IVG should be
+				taken in consideration. The exclusion of potential pathologies associated to an
+				increased risk for sudden cardiac death is fundamental in the reproduction of
+				symptoms, in which exercise stress echocardiogram plays an important role. IVG
+				remains poorly clarified and some questions unanswered:</p>
+			<p>
+				<list list-type="simple">
+					<list-item>
+						<p>- Which is the etiology/pathophysiology of IVG (physiologic versus
+							pathologic)?</p>
+					</list-item>
+					<list-item>
+						<p>- Which is the clinical impact at long-term of IVG?</p>
+					</list-item>
+					<list-item>
+						<p>- Which should be the recommendations regarding the eligibility for
+							competitive sport of athletes with IVG?</p>
+					</list-item>
+					<list-item>
+						<p>- Which should be the surveillance/follow-up of athletes with IVG?</p>
+					</list-item>
+				</list>
+			</p>
+		</sec>
+	</body>
+	<back>
+		<fn-group>
+			<fn fn-type="supported-by">
+				<p><bold>Sources of Funding</bold></p>
+				<p>There were no external funding sources for this study.</p>
+			</fn>
+			<fn fn-type="other">
+				<p><bold>Study Association</bold></p>
+				<p>This study is not associated with any thesis or dissertation work.</p>
+			</fn>
+		</fn-group>
+		<ref-list>
+			<title>References</title>
+			<ref id="B1">
+				<label>1</label>
+				<mixed-citation>Cotrim C, Lopes LR, Almeida AR, Miranda R, Almeida AG, Cotrim H, et
+					al. Efficacy of beta-blocker therapy in symptomatic athletes with
+					exercise-induced intra-ventricular gradients. Cardiovasc Ultrasound.
+					2010;8:38.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cotrim</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Lopes</surname>
+							<given-names>LR</given-names>
+						</name>
+						<name>
+							<surname>Almeida</surname>
+							<given-names>AR</given-names>
+						</name>
+						<name>
+							<surname>Miranda</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Almeida</surname>
+							<given-names>AG</given-names>
+						</name>
+						<name>
+							<surname>Cotrim</surname>
+							<given-names>H</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Efficacy of beta-blocker therapy in symptomatic athletes with
+						exercise-induced intra-ventricular gradients</article-title>
+					<source>Cardiovasc Ultrasound</source>
+					<year>2010</year>
+					<volume>8</volume>
+					<fpage>38</fpage>
+					<lpage>38</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<label>2</label>
+				<mixed-citation>Lopes A, Cotrim C, Martins JD, Pinto F. Exercise-induced
+					intraventricular obstruction in a child with near syncope and chest pain during
+					exercise. Pediatr Cardiol. 2011;32(7):1032-5.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lopes</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Cotrim</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Martins</surname>
+							<given-names>JD</given-names>
+						</name>
+						<name>
+							<surname>Pinto</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<article-title>Exercise-induced intraventricular obstruction in a child with
+						near syncope and chest pain during exercise</article-title>
+					<source>Pediatr Cardiol</source>
+					<year>2011</year>
+					<volume>32</volume>
+					<issue>7</issue>
+					<fpage>1032</fpage>
+					<lpage>1035</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<label>3</label>
+				<mixed-citation>Yotti R. [What is the relevance of an intraventricular ejection
+					pressure gradient induced by exercise?]. Rev Esp Cardiol.
+					2004;57(12):1139-42.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Yotti</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<article-title>What is the relevance of an intraventricular ejection pressure
+						gradient induced by exercise?</article-title>
+					<source>Rev Esp Cardiol</source>
+					<year>2004</year>
+					<volume>57</volume>
+					<issue>12</issue>
+					<fpage>1139</fpage>
+					<lpage>1142</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<label>4</label>
+				<mixed-citation>Murgo JP, Alter BR, Dorethy JF, Altobelli SA, Craig WE, McGranahan
+					GM Jr. The effects of intraventricular gradients on left ventricular ejection
+					dynamics. Eur Heart J. 1983;4 Suppl F:23-38.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Murgo</surname>
+							<given-names>JP</given-names>
+						</name>
+						<name>
+							<surname>Alter</surname>
+							<given-names>BR</given-names>
+						</name>
+						<name>
+							<surname>Dorethy</surname>
+							<given-names>JF</given-names>
+						</name>
+						<name>
+							<surname>Altobelli</surname>
+							<given-names>SA</given-names>
+						</name>
+						<name>
+							<surname>Craig</surname>
+							<given-names>WE</given-names>
+						</name>
+						<name>
+							<surname>McGranahan</surname>
+							<given-names>GM</given-names>
+							<suffix>Jr</suffix>
+						</name>
+					</person-group>
+					<article-title>The effects of intraventricular gradients on left ventricular
+						ejection dynamics</article-title>
+					<source>Eur Heart J</source>
+					<year>1983</year>
+					<volume>4</volume>
+					<supplement>Suppl F</supplement>
+					<fpage>23</fpage>
+					<lpage>38</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<label>5</label>
+				<mixed-citation>Zywica K, Jenni R, Pellikka PA, Faeh-Gunz A, Seifert B, Attenhofer
+					Jost CH. Dynamic left ventricular outflow tract obstruction evoked by exercise
+					echocardiography: prevalence and predictive factors in a prospective study Eur J
+					Echocardiogr. 2008;9(5):665-71.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zywica</surname>
+							<given-names>K</given-names>
+						</name>
+						<name>
+							<surname>Jenni</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Pellikka</surname>
+							<given-names>PA</given-names>
+						</name>
+						<name>
+							<surname>Faeh-Gunz</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Seifert</surname>
+							<given-names>B</given-names>
+						</name>
+						<name>
+							<surname>Attenhofer Jost</surname>
+							<given-names>CH</given-names>
+						</name>
+					</person-group>
+					<article-title>Dynamic left ventricular outflow tract obstruction evoked by
+						exercise echocardiography: prevalence and predictive factors in a
+						prospective study</article-title>
+					<source>Eur J Echocardiogr</source>
+					<year>2008</year>
+					<volume>9</volume>
+					<issue>5</issue>
+					<fpage>665</fpage>
+					<lpage>671</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<label>6</label>
+				<mixed-citation>Cabrera Bueno F, Rodríguez Bailón I, López Salguero R, Gómez Doblas
+					JJ, Pérez Cabeza A, Peña Hernández J, et al. [Dynamic left ventricular outflow
+					tract obstruction induced by exercise]. Rev Esp Cardiol.
+					2004;57(12):1179-87.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cabrera Bueno</surname>
+							<given-names>F</given-names>
+						</name>
+						<name>
+							<surname>Rodríguez Bailón</surname>
+							<given-names>I</given-names>
+						</name>
+						<name>
+							<surname>López Salguero</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Gómez Doblas</surname>
+							<given-names>JJ</given-names>
+						</name>
+						<name>
+							<surname>Pérez Cabeza</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Peña Hernández</surname>
+							<given-names>J</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Dynamic left ventricular outflow tract obstruction induced by
+						exercise</article-title>
+					<source>Rev Esp Cardiol</source>
+					<year>2004</year>
+					<volume>57</volume>
+					<issue>12</issue>
+					<fpage>1179</fpage>
+					<lpage>1187</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<label>7</label>
+				<mixed-citation>Cotrim C, Almeida AG, Carrageta M. Clinical significance of
+					intraventricular gradient during effort in an adolescent karate player.
+					Cardiovasc Ultrasound. 2007;5:39.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cotrim</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Almeida</surname>
+							<given-names>AG</given-names>
+						</name>
+						<name>
+							<surname>Carrageta</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<article-title>Clinical significance of intraventricular gradient during effort
+						in an adolescent karate player</article-title>
+					<source>Cardiovasc Ultrasound</source>
+					<year>2007</year>
+					<volume>5</volume>
+					<fpage>39</fpage>
+					<lpage>39</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<label>8</label>
+				<mixed-citation>Sicari R, Nihoyannopoulos P, Evangelista A, Kasprzak J, Lancellotti
+					P, Poldermans D, et al. Stress echocardiography expert consensus statement:
+					European Association of Echocardiography (EAE) (a registered branch of the ESC).
+					Eur J Echocardiogr. 2008;9(4):415-37.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sicari</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Nihoyannopoulos</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Evangelista</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Kasprzak</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Lancellotti</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Poldermans</surname>
+							<given-names>D</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Stress echocardiography expert consensus statement: European
+						Association of Echocardiography (EAE) (a registered branch of the
+						ESC)</article-title>
+					<source>Eur J Echocardiogr</source>
+					<year>2008</year>
+					<volume>9</volume>
+					<issue>4</issue>
+					<fpage>415</fpage>
+					<lpage>437</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<label>9</label>
+				<mixed-citation>Cotrim C, Lopes LR, Almeida AR, Miranda R, Almeida AG, Cotrim H, et
+					al. Efficacy of beta-blocker therapy in symptomatic athletes with
+					exercise-induced intra-ventricular gradients. Cardiovasc Ultrasound.
+					2010;8:38.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cotrim</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Lopes</surname>
+							<given-names>LR</given-names>
+						</name>
+						<name>
+							<surname>Almeida</surname>
+							<given-names>AR</given-names>
+						</name>
+						<name>
+							<surname>Miranda</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Almeida</surname>
+							<given-names>AG</given-names>
+						</name>
+						<name>
+							<surname>Cotrim</surname>
+							<given-names>H</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Efficacy of beta-blocker therapy in symptomatic athletes with
+						exercise-induced intra-ventricular gradients</article-title>
+					<source>Cardiovasc Ultrasound</source>
+					<year>2010</year>
+					<volume>8</volume>
+					<fpage>38</fpage>
+					<lpage>38</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<label>10</label>
+				<mixed-citation>Pelliccia A, Fagard R, Bj&#x00F8;rnstad HH, Anastassakis A,
+					Arbustini E, Assanelli D, et al; Study Group of Sports Cardiology of the Working
+					Group of Cardiac Rehabilitation and Exercise Physiology; Working Group of
+					Myocardial and Pericardial Diseases of the European Society of Cardiology.
+					Recommendations for competitive sports participation in athletes with
+					cardiovascular disease. A consensus document from the Study Group of Sports
+					Cardiology of the Working Group of Cardiac Rehabilitation and Exercise
+					Physiology and the Working Group of Myocardial and Pericardial Diseases of the
+					European Society of Cardiology. Eur Heart J.
+					2005;26(14):1422-45.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pelliccia</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Fagard</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Bj&#x00F8;rnstad</surname>
+							<given-names>HH</given-names>
+						</name>
+						<name>
+							<surname>Anastassakis</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Arbustini</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Assanelli</surname>
+							<given-names>D</given-names>
+						</name>
+						<etal/>
+						<collab>Study Group of Sports Cardiology of the Working Group of Cardiac
+							Rehabilitation and Exercise Physiology</collab>
+						<collab>Working Group of Myocardial and Pericardial Diseases of the European
+							Society of Cardiology</collab>
+					</person-group>
+					<article-title>Recommendations for competitive sports participation in athletes
+						with cardiovascular disease. A consensus document from the Study Group of
+						Sports Cardiology of the Working Group of Cardiac Rehabilitation and
+						Exercise Physiology and the Working Group of Myocardial and Pericardial
+						Diseases of the European Society of Cardiology</article-title>
+					<source>Eur Heart J</source>
+					<year>2005</year>
+					<volume>26</volume>
+					<issue>14</issue>
+					<fpage>1422</fpage>
+					<lpage>1445</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<label>11</label>
+				<mixed-citation>Maron B, Zipes DP. Introduction: eligibility recommendations for
+					competitive athletes with cardiovascular abnormalities - general considerations.
+					J Am Coll Cardiol. 2005;45(8):1318-21.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Maron</surname>
+							<given-names>B</given-names>
+						</name>
+						<name>
+							<surname>Zipes</surname>
+							<given-names>DP</given-names>
+						</name>
+					</person-group>
+					<article-title>Introduction: eligibility recommendations for competitive
+						athletes with cardiovascular abnormalities - general
+						considerations</article-title>
+					<source>J Am Coll Cardiol</source>
+					<year>2005</year>
+					<volume>45</volume>
+					<issue>8</issue>
+					<fpage>1318</fpage>
+					<lpage>1321</lpage>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+	<sub-article article-type="translation" id="s1" xml:lang="pt">
+		<front-stub>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Relato de Caso</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Gradiente Intraventricular Sintomático Induzido pelo Esforço em
+					Atleta Competitivo</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Dores</surname>
+						<given-names>Helder</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff5">1</xref>
+					<xref ref-type="aff" rid="aff6">2</xref>
+					<xref ref-type="aff" rid="aff7">3</xref>
+					<xref ref-type="aff" rid="aff8">4</xref>
+					<xref ref-type="corresp" rid="c2"/>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mendes</surname>
+						<given-names>Lígia</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff5">1</xref>
+					<xref ref-type="aff" rid="aff6">2</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ferreira</surname>
+						<given-names>António</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff6">2</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Santos</surname>
+						<given-names>Jose Ferreira</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff5">1</xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff5">
+				<label>1</label>
+				<institution content-type="original">Hospital da Luz Setúbal, Setúbal -
+					Portugal</institution>
+			</aff>
+			<aff id="aff6">
+				<label>2</label>
+				<institution content-type="original">Hospital da Luz Lisboa, Lisboa -
+					Portugal</institution>
+			</aff>
+			<aff id="aff7">
+				<label>3</label>
+				<institution content-type="original">Hospital das Forças Armadas, Lisboa -
+					Portugal</institution>
+			</aff>
+			<aff id="aff8">
+				<label>4</label>
+				<institution content-type="original">NOVA Medical School, Lisboa -
+					Portugal</institution>
+			</aff>
+			<author-notes>
+				<corresp id="c2"><bold>Correspondência: Helder Dores,</bold> Serviço de Cardiologia
+					- Hospital das Forças Armadas, Rua José Cardoso Pires, N5, 7ª. CEP: 1750-356,
+					Lumiar, Lisboa - Portugal. E-mail: <email>heldores@hotmail.com</email>
+				</corresp>
+				<fn fn-type="con">
+					<p><bold>Contribuição dos autores</bold></p>
+					<p>Concepção e desenho da pesquisa: Dores H, Mendes L; Obtenção de dados: Dores
+						H, Ferreira A; Redação do manuscrito: Dores H; Revisão crítica do manuscrito
+						quanto ao conteúdo intelectual importante: Dores H, Mendes L, Ferreira A,
+						Santos JF.</p>
+				</fn>
+				<fn fn-type="conflict">
+					<p><bold>Potencial conflito de interesses</bold></p>
+					<p>Declaro não haver conflito de interesses pertinentes.</p>
+				</fn>
+			</author-notes>
+			<kwd-group xml:lang="pt">
+				<title>Palavras-chave</title>
+				<kwd>Atletas</kwd>
+				<kwd>Ecocardiografia de Estresse</kwd>
+				<kwd>Teste de Esforço/efeitos adversos</kwd>
+				<kwd>Disfunção Ventricular</kwd>
+				<kwd>Ventriculos do Coração/fisiopatologia</kwd>
+			</kwd-group>
+		</front-stub>
+		<body>
+			<sec sec-type="cases">
+				<title>Relato de Caso</title>
+				<p>Descrevemos o caso de um jogador de tênis de 17 anos de idade, com cor da pele
+					branca, treinando em média de 20 a 24 horas por semana, encaminhado para
+					avaliação em uma clínica de cardiologia esportiva devido a sintomas de tontura
+					durante a prática de exercício físico extenuante, aliviados logo após o
+					decúbito. O atleta negou outras queixas concomitantes, particularmente, dor
+					torácica, palpitações, síncope ou queda no desempenho físico. Embora esta seja a
+					ocorrência mais sintomática, ele revelou outros episódios anteriores com
+					apresentação semelhante, porém menos intensa e ocorrida em ambientes com
+					temperatura elevada. Com histórico pessoal/familiar comum, todas as avaliações
+					prévias à competição apresentaram resultados normais; sem restrições, portanto,
+					à participação em competição esportiva. O exame físico não apresentou achados
+					significativos: avaliação cardíaca normal, com frequência cardíaca e pressão
+					arterial em repouso a 52 bpm 121/64mmHg, respectivamente.</p>
+				<p>O eletrocardiograma de 12 derivações e o ecocardiograma transtorácico não
+					identificaram achados patológicos, somente adaptação fisiológica cardíaca ao
+					exercício físico (<xref ref-type="fig" rid="f3">Figura 1</xref>). Em momento
+					subsequente, o atleta foi submetido a um ecocardiograma de estresse com esforço
+					físico em esteira, revelando uma excelente capacidade funcional (19’09’’ do
+					protocolo de Bruce, 19,3 METs), mas com reprodução dos sintomas (tonteira) no
+					pico do exercício, redução simultânea na pressão arterial sistólica
+					(185&#x2794;90mmHg) e detecção de gradiente intraventricular (GIV) - pelo menos
+					69mmHg (<xref ref-type="fig" rid="f4">Figura 2</xref>). No primeiro minuto da
+					recuperação, os sintomas desapareceram e a pressão arterial normalizou.</p>
+				<p>
+					<fig id="f3">
+						<label>Figura 1</label>
+						<caption>
+							<title>Ecocardiograma transtorácico em repouso sem evidências de
+								anormalidades morfofuncionais significativas - dimensões do
+								ventrículo esquerdo (VE) pelo Modo M (A), volumes e fração de ejeção
+								do VE (B), Doppler tissular no anel mitral (C) e strain longitudinal
+								global (D).</title>
+						</caption>
+						<graphic xlink:href="0066-782X-abc-109-01-0087-gf01-pt.tif"/>
+					</fig>
+				</p>
+				<p>
+					<fig id="f4">
+						<label>Figura 2</label>
+						<caption>
+							<title>Ecocardiograma de estresse com esforço físico realizado em
+								esteira com o protocolo de Bruce, revelando redução significativa na
+								pressão arterial sistólica (185 &#x2794; 90mmHg) no pico do
+								exercício, com detecção concomitante de GIV (figura
+								inferior).</title>
+						</caption>
+						<graphic xlink:href="0066-782X-abc-109-01-0087-gf02-pt.tif"/>
+					</fig>
+				</p>
+				<p>O atleta foi orientado a suspender a prática esportiva. Em seguida, foram
+					realizadas a monitorização ambulatorial com Holter de 24h e ressonância
+					magnética cardíaca, sem apresentar alterações patológicas, especialmente
+					arritmias ou anormalidades cardíacas estruturais.</p>
+				<p>Após essas investigações, o caso foi discutido com o envolvimento do atleta, dos
+					pais e do treinador. Decidiu-se pela retomada da atividade física com aumento
+					gradual na intensidade e no volume do treinamento, com especial orientação para
+					aumentar a hidratação (aparentemente abaixo do ideal, de acordo com o relato do
+					treinador) e iniciar a terapia com beta-bloqueador caso persistam os sintomas.
+					Após 18 meses de acompanhamento, o atleta continua assintomático, com desempenho
+					excelente e sem a necessidade de terapia farmacológica.</p>
+			</sec>
+			<sec sec-type="discussion">
+				<title>Discussão</title>
+				<p>O desenvolvimento de GIV significativo durante o esforço (&gt;30mmHg em repouso
+					ou &gt;50mmHg com exercício físico) ocorre raramente, podendo ocasionar sintomas
+					distintos e inespecíficos, como tontura, dor torácica ou, ainda, alterações da
+					repolarização ventricular e arritmias durante o teste de esforço.<xref
+						ref-type="bibr" rid="B1">1</xref><sup>,</sup><xref ref-type="bibr" rid="B2"
+						>2</xref> Esta condição surge habitualmente associada a hipertrofia
+					ventricular esquerda segmentar ou global ou a uma implantação anormal dos
+					músculos papilares, porém os mecanismos patofisiológicos não estão bem
+					estabelecidos. São propostos três mecanismos potenciais para o desenvolvimento
+					do GIV:</p>
+				<p>
+					<list list-type="simple">
+						<list-item>
+							<p>a) Aumento de GIVs fisiológicos não obstrutivos;</p>
+						</list-item>
+						<list-item>
+							<p>b) Obstrução telessistólica secundária à obliteração da cavidade
+								ventricular;</p>
+						</list-item>
+						<list-item>
+							<p>c) Obstrução mesossistólica por movimento anterior sistólico da válvula
+								mitral com restrição à ejeção.<xref ref-type="bibr" rid="B3"
+									>3</xref><sup>,</sup><xref ref-type="bibr" rid="B4">4</xref>
+							</p>
+						</list-item>
+					</list>
+				</p>
+				<p>Em um estudo de Zywca et al.<xref ref-type="bibr" rid="B5">5</xref>, os
+					indicadores independentes da obstrução dinâmica da via de saída do ventrículo
+					esquerdo em indivíduos sem cardiomiopatia hipertrófica foram: movimento anterior
+					sistólico cordal, ventrículo esquerdo menor no final da sístole, aumento da
+					pressão arterial sistólica no pico, indivíduos jovens e aumento da espessura da
+					parede septal.<xref ref-type="bibr" rid="B5">5</xref> Contudo, no caso relatado,
+					o GIV pode ocorrer sem alteração cardíaca estrutural, especialmente do aparelho
+					valvar mitral, e, por fim, pode ser justificado por deformação extrema do
+					miocárdio em resposta a condições de esforço.<xref ref-type="bibr" rid="B3"
+						>3</xref> Neste contexto, o GIV é descrito com mais frequência em atletas ou
+					em situações de aumento nos estímulos inotrópicos, tal como durante o
+					ecocardiograma de estresse com dobutamina.<xref ref-type="bibr" rid="B6"
+						>6</xref><sup>,</sup><xref ref-type="bibr" rid="B7">7</xref> O
+					ecocardiograma de estresse com esforço físico tem função importante na avaliação
+					de atletas sintomáticos, com a reprodução dos sintomas e detecção potencial de
+					GIVs significativos.<xref ref-type="bibr" rid="B1">1</xref><sup>,</sup><xref
+						ref-type="bibr" rid="B8">8</xref></p>
+				<p>A significância clínica do GIV permanece desconhecida, podendo ser uma adaptação
+					fisiológica extrema ao esforço, uma entidade patológica isolada ou, por outro
+					lado, corresponder a um achado pré-fenotípico de cardiomiopatia.</p>
+				<p>Considerando-se as medidas preventivas/terapêuticas a serem adotadas na presença
+					de um atleta com GIV, é crucial manter uma hidratação adequada durante o
+					esforço, em muitos casos, suficiente para a remissão dos sintomas. A prática de
+					exercício físico em temperatura elevada sem a hidratação adequada pode aumentar
+					o gradiente secundário à obliteração da cavidade ventricular esquerda. Na
+					terapia farmacológica, as evidências indicam uma eficácia significativa da
+					terapia com beta-bloqueador, tanto na remissão dos sintomas quanto na
+					remissão/desaparecimento do GIV.<xref ref-type="bibr" rid="B1"
+						>1</xref><sup>,</sup><xref ref-type="bibr" rid="B9">9</xref></p>
+				<p>A escassez nos dados publicados e a curta duração do acompanhamento de atletas
+					com GIV não permite definir conclusões acerca do impacto prognóstico, mas não há
+					eventos clínicos fatais descritos nesses indivíduos com GIV e sem alteração
+					cardíaca estrutural. Neste contexto, não há recomendações específicas no que
+					concerne à prática de esporte competitivo em atletas com GIV.<xref
+						ref-type="bibr" rid="B10">10</xref><sup>,</sup><xref ref-type="bibr"
+						rid="B11">11</xref> Em geral, se um atleta ainda está sintomático apesar das
+					medidas preventivas/terapêuticas salientadas, não é aconselhada a manutenção da
+					prática esportiva, sobretudo com a intensidade do esforço que precipita os
+					sintomas, o que deve ser avaliado regularmente durante o acompanhamento.</p>
+				<p>Em suma, na presença de um atleta com sintomas induzidos pelo esforço, deve-se
+					levar o GIV em consideração. Na reprodução dos sintomas, é fundamental a
+					exclusão de patologias potenciais associadas a um risco aumentado de morte
+					súbita cardíaca, quando o ecocardiograma de estresse com esforço físico tem
+					função essencial. O GIV continua sem esclarecimento suficiente e com algumas
+					perguntas não respondidas:</p>
+				<p>
+					<list list-type="simple">
+						<list-item>
+							<p>- Qual é a etiologia/fisiopatologia do GIV (fisiológico em relação ao
+								patológico)?</p>
+						</list-item>
+						<list-item>
+							<p>- Qual é o impacto clínico do GIV em longo prazo?</p>
+						</list-item>
+						<list-item>
+							<p>- Quais devem ser as recomendações quanto à adequação de atletas com
+								GIV ao esporte competitivo?</p>
+						</list-item>
+						<list-item>
+							<p>- Qual deve ser o controle/acompanhamento de atletas com GIV?</p>
+						</list-item>
+					</list>
+				</p>
+			</sec>
+		</body>
+		<back>
+			<fn-group>
+				<fn fn-type="supported-by">
+					<p><bold>Fontes de financiamento</bold></p>
+					<p>O presente estudo não teve fontes de financiamento externas.</p>
+				</fn>
+				<fn fn-type="other">
+					<p><bold>Vinculação acadêmica</bold></p>
+					<p>Não há vinculação deste estudo a programas de pós-graduação.</p>
+				</fn>
+			</fn-group>
+		</back>
+	</sub-article>
+</article>

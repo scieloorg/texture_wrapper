@@ -1,0 +1,15 @@
+version: '2'
+
+services:
+  texture-wrapper:
+    build:
+      context: .
+      dockerfile: Dockerfile-dev
+    hostname: texture-wrapper
+    volumes:
+      - .:/app
+    stdin_open: True
+    tty: True
+    ports:
+      - "6543:6543"
+    command: ['pserve', 'development.ini', '--reload']

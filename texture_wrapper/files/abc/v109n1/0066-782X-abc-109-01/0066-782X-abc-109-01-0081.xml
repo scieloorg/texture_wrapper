@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink"
+	article-type="case-report" dtd-version="1.0" specific-use="sps-1.6" xml:lang="en">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="nlm-ta">Arq Bras Cardiol</journal-id>
+			<journal-id journal-id-type="publisher-id">abc</journal-id>
+			<journal-title-group>
+				<journal-title>Arquivos Brasileiros de Cardiologia</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Arq. Bras.
+					Cardiol.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0066-782X</issn>
+			<issn pub-type="epub">1678-4170</issn>
+			<publisher>
+				<publisher-name>Sociedade Brasileira de Cardiologia - SBC</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.5935/abc.20170106</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Anatomopathological Session</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Case 3/2017 - A 47-Year-Old Female with Refractory Heart Failure and
+					Embolic Acute Myocardial Infarction</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Lage</surname>
+						<given-names>João Gabriel Batista</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"/>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Gutierrez</surname>
+						<given-names>Paulo Sampaio</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"/>
+				</contrib>
+				<aff id="aff1">
+					<institution content-type="orgname">USP</institution>
+					<institution content-type="orgdiv1">FM</institution>
+					<institution content-type="orgdiv2">HC</institution>
+					<addr-line>
+						<named-content content-type="city">São Paulo</named-content>
+						<named-content content-type="state">SP</named-content>
+					</addr-line>
+					<country country="BR">Brazil</country>
+					<institution content-type="original">Instituto do Coração (Incor) HC-FMUSP, São
+						Paulo, SP - Brazil</institution>
+					<institution content-type="normalized">Universidade de São Paulo</institution>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1"><bold>Mailing Address: Vera Demarchi Aiello,</bold> Avenida Dr.
+					Enéas de Carvalho Aguiar, 44, subsolo, bloco I, Cerqueira César. Postal Code
+					05403-000, São Paulo, SP - Brazil. E-mail: <email>demarchi@cardiol.br</email>,
+						<email>vera.aiello@incor.usp.br</email>
+				</corresp>
+			</author-notes>
+			<pub-date pub-type="epub-ppub">
+				<month>07</month>
+				<year>2017</year>
+			</pub-date>
+			<volume>109</volume>
+			<issue>1</issue>
+			<fpage>81</fpage>
+			<lpage>86</lpage>
+			<permissions>
+				<license license-type="open-access"
+					xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+					<license-p>This is an Open Access article distributed under the terms of the
+						Creative Commons Attribution License, which permits unrestricted use,
+						distribution, and reproduction in any medium, provided the original work is
+						properly cited.</license-p>
+				</license>
+			</permissions>
+			<kwd-group xml:lang="en">
+				<title>Keywords</title>
+				<kwd>Heart failure</kwd>
+				<kwd>Myocardial Infarction</kwd>
+				<kwd>Thromboembolism</kwd>
+			</kwd-group>
+		</article-meta>
+	</front>
+	<body>
+		<p>The patient was a 47-year-old white single female referred for medical treatment to the
+			Instituto do Coração, born and coming from the state of São Paulo, with four children,
+			unemployed, but reporting having worked in coffee farming in inner Minas Gerais
+			state.</p>
+		<p>At the time of her first medical consultation (September 25, 2015), she reported dyspnea
+			on minimal exertion, orthopnea and anasarca, which had started 2 months earlier. She
+			denied angina pectoris, previous myocardial infarction and syncope. She knew she had
+			systemic arterial hypertension and diabetes mellitus, and was being treated at a basic
+			health unit. She used to smoke (20 packs/year), but quit the habit 2 months before. She
+			denied consuming alcoholic beverages and illicit drugs, as well as a family history of
+			cardiovascular disease.</p>
+		<p>She was on metformin (2550 mg/day), furosemide (80 mg/day), carvedilol (12.5 mg/day), and
+			losartan (50 mg/day).</p>
+		<p>On her first medical consultation, her physical exam showed regular general condition and
+			dyspnea in the horizontal position. Her blood pressure was 100/70 mmHg, and heart rate,
+			102 bpm. Her pulmonary auscultation revealed no respiratory sound on the base of the
+			right lung and no rales. Her cardiac auscultation showed regular gallop rhythm, due to
+			the presence of the third heart sound, and no murmur. Her abdomen was globose, tense,
+			painless, with signs of huge ascites. Her extremities were cold and edematous (++/4+),
+			with symmetrical pulses.</p>
+		<p>The electrocardiogram on the medical consultation showed sinus rhythm, heart rate of 97
+			bpm, left atrial overload and indirect signs of right atrial overload
+			(Peñaloza-Tranchesi sign), low voltage of the QRS complexes in the frontal plane and no
+			progression of the R wave in V<sub>1</sub> to V<sub>4</sub> (probable electrically
+			inactive area in the anterior wall), and diffuse changes of ventricular repolarization
+				(<xref ref-type="fig" rid="f1">Figure 1</xref>).</p>
+		<p>
+			<fig id="f1">
+				<label>Figure 1</label>
+				<caption>
+					<title>ECG: left atrial overload and indirect signs of right atrial overload
+						Peñaloza-Tranchesi sign), low voltage of the QRS complexes in the frontal
+						plane and no progression of the R wave in V<sub>1</sub> to V<sub>4</sub>
+						(probable electrically inactive area in the anterior wall), and diffuse
+						changes of ventricular repolarization.</title>
+				</caption>
+				<graphic xlink:href="0066-782X-abc-109-01-0081-gf01.tif"/>
+			</fig>
+		</p>
+		<p>Her chest X-ray showed bilateral veiling of costophrenic sinus, with pleural effusion up
+			to half of the right hemithorax, normal aorta and global heart enlargement (++++/4+)
+				(<xref ref-type="fig" rid="f2">Figure 2</xref>).</p>
+		<p>
+			<fig id="f2">
+				<label>Figure 2</label>
+				<caption>
+					<title>Chest X-ray showing bilateral veiling of costophrenic sinus, with pleural
+						effusion up to half of the right hemithorax, normal aorta and global heart
+						enlargement (++++/4+).</title>
+				</caption>
+				<graphic xlink:href="0066-782X-abc-109-01-0081-gf02.tif"/>
+			</fig>
+		</p>
+		<p>Her laboratory tests were as follows: hemoglobin 14.8 g/dL; hematocrit 46%; leukocytes
+				9950/mm<sup>3</sup>; creatinine 0.87 mg/dL; sodium 141 mg/dL; potassium 4.3 mg/dL;
+			and negative serology for Chagas disease.</p>
+		<p>On that medical consultation, spironolactone 25 mg was added, and, due to
+			gastrointestinal intolerance, metformin was replaced by glicazide 30 mg/day.</p>
+		<p>Returning to medical consultation at the outpatient clinic (December 16th, 2015), she
+			reported marked improvement of the dyspnea, then triggered only by large exertion. Her
+			physical exam revealed no pathological jugular venous distention, blood pressure of
+			100/70 mmHg, heart rate of 100 bpm. Her pulmonary auscultation showed no respiratory
+			sound on the base of the right lung. Her cardiac auscultation evidenced the presence of
+			the third heart sound and no murmur. Her abdomen was globose, tense, painless, with
+			liver palpable 3 cm from the right costal margin. Her lower limbs had mild edema (+/4+).
+			She had not undergone the tests requested on her first medical consultation. Her
+			prescription was then changed: carvedilol to metoprolol 50 mg/day.</p>
+		<p>After missing her subsequent medical consultation, the patient was hospitalized on July
+			25, 2016, due to heart failure decompensation. She had mixed shock, with decreased level
+			of awareness and increased levels of myocardial injury markers. She required dobutamine
+			for hemodynamic control. Empiric antibiotic therapy was initiated with ceftriaxone and
+			clarithromycin, being the patient later submitted to orotracheal intubation for
+			respiratory support.</p>
+		<p>Bedside chest X-ray on that day evidenced bilateral veiling of costophrenic sinus, with
+			reduced transparency of the lower third of the right hemithorax (pleural effusion),
+			increased pulmonary vascular bed with Kerley’s B lines, and marked heart enlargement
+				(<xref ref-type="fig" rid="f3">Figure 3</xref>).</p>
+		<p>
+			<fig id="f3">
+				<label>Figure 3</label>
+				<caption>
+					<title>Bedside chest X-ray showing bilateral veiling of costophrenic sinus, with
+						pleural effusion up to half of the right hemithorax, normal aorta and global
+						heart enlargement (++++/4+).</title>
+				</caption>
+				<graphic xlink:href="0066-782X-abc-109-01-0081-gf03.tif"/>
+			</fig>
+		</p>
+		<p>Her laboratory tests revealed: hemoglobin 14.1 g/dL; hematocrit 44%; leukocytes
+				15100/mm<sup>3</sup> (band neutrophils 6%, segmented neutrophils 84%, lymphocytes
+			5%, and monocytes 5%); platelets 195000/mm<sup>3</sup>; CK-MB 9.7 ng/mL; troponin I
+			0.654 ng/mL; ALT 42 U/L; AST 80 U/L; urea 87 mg/dL; creatinine 1.18 mg/dL; sodium 132
+			mEq/L; potassium 3.5 mEq/L; International Normalized Ratio (INR) 2.3; ratio between
+			activated thromboplastin times 1.06; magnesium 1.6 mEq/L; total bilirubin 3.14 mg/dL;
+			direct bilirubin 2.19 mg/dL; C-reactive protein 156.50 mg/L; arterial lactate 22 mg/dL.
+			Arterial blood gas analysis (with oxygen therapy) showed pH of 7.52, pCO<sub>2</sub> of
+			29.6 mmHg, pO<sub>2</sub> of 176 mmHg, oxygen saturation of 99.9%, bicarbonate of 24.1
+			mmol/L, and base excess of 2.2 mmol/L.</p>
+		<p>Bedside transthoracic echocardiography showed: left ventricular diffuse hypokinesia and
+			ejection fraction of 20%; marked right ventricular hypokinesia; marked mitral and
+			tricuspid regurgitation and poor leaflet coaptation; pulmonary valve with signs of
+			pulmonary hypertension; mild pericardial effusion and presence of large heterogeneous
+			mass in the left ventricle, measuring 30x28 mm, compatible with intracavitary thrombus.
+			Estimated systolic pulmonary artery pressure of 65 mmHg.</p>
+		<p>Coronary angiography revealed coronary arteries without proximal lesions, but the
+			anterior interventricular branch showed a 95% distal lesion, and the diagonal branch
+			showed distal occlusion. Neither the circumflex artery nor the right coronary artery
+			showed any sign of obstruction (<xref ref-type="fig" rid="f4">Figures 4A</xref>, <xref
+				ref-type="fig" rid="f4">4B</xref>, <xref ref-type="fig" rid="f4">4C</xref>, <xref
+				ref-type="fig" rid="f4">4D</xref>).</p>
+		<p>
+			<fig id="f4">
+				<label>Figure 4</label>
+				<caption>
+					<title>Coronary angiography: A) caudal RAO: 95% distal lesion in the anterior
+						descending branch and occlusion of the diagonal branch; B) cranial RAO: 95%
+						distal lesion and distal occlusion of the diagonal branch; C) cranial LAO:
+						95% distal lesion in the anterior descending branch; D) LAO: right coronary
+						artery with no lesion.</title>
+				</caption>
+				<graphic xlink:href="0066-782X-abc-109-01-0081-gf04.tif"/>
+			</fig>
+		</p>
+		<p>The hypothesis of infarction of embolic cause was raised. The patient was referred to the
+			intensive care unit, with progressive increase of vasoactive drugs and later
+			introduction of noradrenaline and widening of the antimicrobial spectrum to meropenem
+			and vancomycin. The patient had refractory shock and died on July 27, 2016, with
+			multiple organ dysfunction.</p>
+		<sec>
+			<title>Clinical aspects</title>
+			<p>This case can be approached in two ways: chronic disease and acute decompensation.
+				Taking the chronic disease way, some possible etiologies of heart failure can be
+				considered. With the negative Chagas serology and her known comorbidities, the major
+				hypotheses to be considered for this patient are hypertensive heart disease (dilated
+				phase), microcirculation disease due to diabetes mellitus, and idiopathic dilated
+					cardiomyopathy.<xref ref-type="bibr" rid="B1">1</xref><sup>-</sup><xref
+					ref-type="bibr" rid="B3">3</xref> The patient attended to only two medical
+				consultations, being her complementary investigation unfinished. Now, taking the
+				acute decompensation way, it was relatively clear at the beginning that the
+				infectious hypothesis was the most plausible, being the elevation in the levels of
+				myocardial necrosis markers probably related to sepsis and hemodynamic instability
+				(type 2 acute myocardial infarction). However, after the results of the other
+				complementary tests (echocardiography and coronary angiography), the hypothesis of
+				acute myocardial infarction of embolic cause gained strength, mainly due to the
+				finding of an intracavitary thrombus on the first exam. Therefore, we hypothesize
+				that the significant left ventricular dysfunction determined the formation of the
+				thrombus, whose fragment embolized to the coronary circulation, causing an acute
+				myocardial infarction, culminating with dysfunction worsening, thus triggering the
+				cascade that led to the patient’s death.</p>
+			<p>Some of the causes of coronary emboli are heart valvular disease, cardiomyopathy,
+				coronary atherosclerosis and atrial fibrillation. In a postmortem study by Prizel et
+					al.,<xref ref-type="bibr" rid="B4">4</xref> an intracavitary thrombus was
+				present in 33% of the cases. Nevertheless, a superimposed infectious cause for
+				decompensation cannot be ruled out. <bold>(João Gabriel Batista Lage, MD)</bold></p>
+			<p><bold>Diagnostic hypothesis</bold>: syndromic: heart failure due to heart disease
+				with left ventricular ejection fraction reduction; etiological: dilated
+				cardiomyopathy; final: acute myocardial infarction due to thromboembolism to the
+				coronary arteries and cardiogenic shock. <bold>(João Gabriel Batista Lage,
+					MD)</bold></p>
+		</sec>
+		<sec>
+			<title>Postmortem examination</title>
+			<p>The heart showed global dilatation of the four chambers (<xref ref-type="fig"
+					rid="f5">Figure 5</xref>), and no significant changes in the valves and coronary
+				arteries. The microscopic exam showed neither inflammatory infiltrate nor any type
+				of deposit, and the muscle fibers were thin and had enlarged nuclei, denoting
+				hypertrophy. Thrombi were present in the tips of both ventricles (<xref
+					ref-type="fig" rid="f5">Figure 5</xref>). The diagnosis of systemic arterial
+				hypertension was based only on information provided by the patient, and there was no
+				renal arteriolosclerosis. In the lack of genetic study, thus, neither decompensated
+				hypertensive cardiomyopathy nor idiopathic dilated cardiomyopathy can be diagnosed
+				for sure, the latter seeming more likely.</p>
+			<p>
+				<fig id="f5">
+					<label>Figure 5</label>
+					<caption>
+						<title>Longitudinal section of the heart showing dilatation of the
+							cavities.</title>
+					</caption>
+					<graphic xlink:href="0066-782X-abc-109-01-0081-gf05.tif"/>
+				</fig>
+			</p>
+			<p>There was myocardial infarction of approximately 2 weeks, affecting the apical region
+				of the left ventricular anterior and septal walls (<xref ref-type="fig" rid="f5"
+					>Figures 5</xref> and <xref ref-type="fig" rid="f6">6</xref>). On microscopic
+				exam, the coronary arteries were normal or had minimal intimal lesions (<xref
+					ref-type="fig" rid="f7">Figures 7A</xref> and <xref ref-type="fig" rid="f7"
+					>7B</xref>). On the 6<sup>th</sup> centimeter of the anterior interventricular
+				branch (anterior descending), there was lumen occlusion by a material with
+				characteristics of thrombus-embolus (<xref ref-type="fig" rid="f7">Figure
+				7C</xref>).</p>
+			<p>
+				<fig id="f6">
+					<label>Figure 6</label>
+					<caption>
+						<title>Longitudinal section of the apex of the heart showing thrombi in both
+							ventricles (asterisks) and myocardial infarction (arrows).</title>
+					</caption>
+					<graphic xlink:href="0066-782X-abc-109-01-0081-gf06.tif"/>
+				</fig>
+			</p>
+			<p>
+				<fig id="f7">
+					<label>Figure 7</label>
+					<caption>
+						<title>Cross-sectional histological sections of segments of the coronary
+							arteries. A and B- right coronary artery and left main coronary artery,
+							respectively, showing intima layer (delimited by the arrows) without
+							signifcant obstructions; C- the 6<sup>th</sup> centimeter of the
+							anterior interventricular branch (anterior descending) occluded with a
+							thrombus-embolus.</title>
+					</caption>
+					<graphic xlink:href="0066-782X-abc-109-01-0081-gf07.tif"/>
+				</fig>
+			</p>
+			<p>In the lower lobes of the lungs, there were infarctions, small to the left and large
+				to the right (<xref ref-type="fig" rid="f8">Figure 8</xref>), which were considered
+				the final factor triggering death.</p>
+			<p>
+				<fig id="f8">
+					<label>Figure 8</label>
+					<caption>
+						<title>Gross section of the right lung showing hemorrhagic infarction in the
+							lower lobe (darker triangular area).</title>
+					</caption>
+					<graphic xlink:href="0066-782X-abc-109-01-0081-gf08.tif"/>
+				</fig>
+			</p>
+			<p>In the other organs, there were changes resulting from congestive heart failure, with
+				chronic passive congestion, general visceral congestion, anasarca and cachexia.
+					<bold>(Paulo Sampaio Gutierrez, MD)</bold></p>
+			<p><bold>Major disease</bold>: idiopathic dilated cardiomyopathy.</p>
+			<p><bold>Cause of death</bold>: pulmonary thromboembolism <bold>(Paulo Sampaio
+					Gutierrez, MD)</bold></p>
+		</sec>
+		<sec>
+			<title>Comments</title>
+			<p>It is worth noting, in this patient with dilated cardiomyopathy, the presence of
+				myocardial infarction, in whose region, there was mural thrombus in both the right
+				and left ventricles. The major issue is the cause of the infarction. The coronary
+				arteries, on both coronary angiography and morphological exam, had no significant
+				atherosclerotic disease, except for distal embolization of the anterior
+				interventricular branch (anterior descending). Adding the coronary angiographic
+				finding with the presence of infarction, one might consider that the later resulted
+				from embolization to a coronary artery. The myocardial infarction and later that of
+				the lung might have been caused by embolism from the ventricular thrombi. It is
+				worth noting that, coincidentally, the infarction happened in the same area of the
+				thrombus originating it. Another possibility might be the infarction resulting from
+				another process, such as vasospasm, generating thrombi, which caused the terminal
+				embolism.</p>
+			<p>Although there are other similar cases in the literature,<xref ref-type="bibr"
+					rid="B5">5</xref><sup>,</sup><xref ref-type="bibr" rid="B6">6</xref> the
+				appearance of transmural infarction in patients with idiopathic dilated
+				cardiomyopathy is uncommon. <bold>(Paulo Sampaio Gutierrez, MD).</bold></p>
+			<p><bold>Section editor:</bold> Alfredo José Mansur
+					(<email>ajmansur@incor.usp.br</email>)</p>
+			<p><bold>Associated editors:</bold> Desidério Favarato
+					(<email>dclfavarato@incor.usp.br</email>)</p>
+			<p>Vera Demarchi Aiello (<email>vera.aiello@incor.usp.br</email>)</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>References</title>
+			<ref id="B1">
+				<label>1</label>
+				<mixed-citation>Luk A, Ahn E, Soor GS, Butany J. Dilated cardiomyopathy: a review. J
+					Clin Pathol .2009;62(3):219-25. doi: 10.1136/jcp.2008.060731.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Luk</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Ahn</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Soor</surname>
+							<given-names>GS</given-names>
+						</name>
+						<name>
+							<surname>Butany</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<article-title>Dilated cardiomyopathy: a review</article-title>
+					<source>J Clin Pathol</source>
+					<year>2009</year>
+					<volume>62</volume>
+					<issue>3</issue>
+					<fpage>219</fpage>
+					<lpage>225</lpage>
+					<pub-id pub-id-type="doi">10.1136/jcp.2008.060731</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<label>2</label>
+				<mixed-citation>Hershberger RE, Lindenfeld J, Mestroni L, Seidman CE, Taylor MR, et
+					al. Genetic evaluation of cardiomyopathy--a Heart Failure Society of America
+					practice guideline. J Card Fail. 2009;15(2):83-97. doi:
+					10.1016/j.cardfail.2009.01.006.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hershberger</surname>
+							<given-names>RE</given-names>
+						</name>
+						<name>
+							<surname>Lindenfeld</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Mestroni</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Seidman</surname>
+							<given-names>CE</given-names>
+						</name>
+						<name>
+							<surname>Taylor</surname>
+							<given-names>MR</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Genetic evaluation of cardiomyopathy--a Heart Failure Society of
+						America practice guideline</article-title>
+					<source>J Card Fail</source>
+					<year>2009</year>
+					<volume>15</volume>
+					<issue>2</issue>
+					<fpage>83</fpage>
+					<lpage>97</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.cardfail.2009.01.006</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<label>3</label>
+				<mixed-citation>Hershberger RE, Hedges DJ, Morales A. Dilated cardiomyopathy: the
+					complexity of a diverse genetic architecture. Nat Rev Cardiol.
+					2013;10(9):531-47. doi: 10.1038/nrcardio.2013.105.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hershberger</surname>
+							<given-names>RE</given-names>
+						</name>
+						<name>
+							<surname>Hedges</surname>
+							<given-names>DJ</given-names>
+						</name>
+						<name>
+							<surname>Morales</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<article-title>Dilated cardiomyopathy: the complexity of a diverse genetic
+						architecture</article-title>
+					<source>Nat Rev Cardiol</source>
+					<year>2013</year>
+					<volume>10</volume>
+					<issue>9</issue>
+					<fpage>531</fpage>
+					<lpage>547</lpage>
+					<pub-id pub-id-type="doi">10.1038/nrcardio.2013.105</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<label>4</label>
+				<mixed-citation>Prizel KR, Hutchins GM, Bulkley BH. Coronary artery embolism and
+					myocardial infarction: a clinicopathologic study of 55 patients. Ann Intern Med
+					.1978;88(2):155-61. PMID. 626443.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Prizel</surname>
+							<given-names>KR</given-names>
+						</name>
+						<name>
+							<surname>Hutchins</surname>
+							<given-names>GM</given-names>
+						</name>
+						<name>
+							<surname>Bulkley</surname>
+							<given-names>BH</given-names>
+						</name>
+					</person-group>
+					<article-title>Coronary artery embolism and myocardial infarction: a
+						clinicopathologic study of 55 patients</article-title>
+					<source>Ann Intern Med</source>
+					<year>1978</year>
+					<volume>88</volume>
+					<issue>2</issue>
+					<fpage>155</fpage>
+					<lpage>161</lpage>
+					<pub-id pub-id-type="pmid">626443</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<label>5</label>
+				<mixed-citation>Zachura M, Sadowski M, Janion-Sadowska A, Kurzawski J, Janion M.
+					Acute myocardial infarction due to coronary embolism originating from left
+					ventricle thrombus in a patient with dilated cardiomyopathy and sinus rhythm.
+					Postepy Kardiol Interwencyjnej. 2016;12(1):73-4. doi:
+					10.5114/pwki.2016.56956.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zachura</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Sadowski</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Janion-Sadowska</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Kurzawski</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Janion</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<article-title>Acute myocardial infarction due to coronary embolism originating
+						from left ventricle thrombus in a patient with dilated cardiomyopathy and
+						sinus rhythm</article-title>
+					<source>Postepy Kardiol Interwencyjnej</source>
+					<year>2016</year>
+					<volume>12</volume>
+					<issue>1</issue>
+					<fpage>73</fpage>
+					<lpage>74</lpage>
+					<pub-id pub-id-type="doi">10.5114/pwki.2016.56956</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<label>6</label>
+				<mixed-citation>Przybojewski JZ. Myocardial infarction complicating dilated
+					(congestive) cardiomyopathy in an industrial nitroglycerin worker. A case report
+					(abstract). S Afr Med J. 1986;69(6):381-4. PMID. 3083516.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Przybojewski</surname>
+							<given-names>JZ</given-names>
+						</name>
+					</person-group>
+					<article-title>Myocardial infarction complicating dilated (congestive)
+						cardiomyopathy in an industrial nitroglycerin worker. A case report
+						(abstract)</article-title>
+					<source>S Afr Med J</source>
+					<year>1986</year>
+					<volume>69</volume>
+					<issue>6</issue>
+					<fpage>381</fpage>
+					<lpage>384</lpage>
+					<pub-id pub-id-type="pmid">3083516</pub-id>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+	<sub-article article-type="translation" id="s1" xml:lang="pt">
+		<front-stub>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Correlação Anatomoclínica</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Caso 3/2017 - Mulher de 47 Anos com Insuficiência Cardíaca Refratária
+					e Infarto Agudo Por Embolia Coronária</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Lage</surname>
+						<given-names>João Gabriel Batista</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2">2</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Gutierrez</surname>
+						<given-names>Paulo Sampaio</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2">2</xref>
+				</contrib>
+				<aff id="aff2">
+					<institution content-type="original">Instituto do Coração (Incor) HC-FMUSP, São
+						Paulo, SP - Brasil</institution>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c2"><bold>Correspondência: Vera Demarchi Aiello,</bold> Avenida Dr.
+					Enéas de Carvalho Aguiar, 44, subsolo, bloco I, Cerqueira César. CEP 05403-000,
+					São Paulo, SP - Brasil. E-mail: <email>demarchi@cardiol.br</email>,
+						<email>vera.aiello@incor.usp.br</email>
+				</corresp>
+			</author-notes>
+			<kwd-group xml:lang="pt">
+				<title>Palavras-chave</title>
+				<kwd>Insuficiência Cardíaca</kwd>
+				<kwd>Infarto do Miocárdio</kwd>
+				<kwd>Tromboembolia</kwd>
+			</kwd-group>
+		</front-stub>
+		<body>
+			<p>Trata-se de mulher de 47 anos encaminhada para tratamento médico no Instituto do
+				Coração, natural e procedente de São Paulo, branca, solteira, 4 filhos e
+				desempregada, porém relatando já ter trabalhado em lavoura de café no interior de
+				MG.</p>
+			<p>À época da sua primeira consulta (25 de setembro de 2015) relatava dispneia aos
+				mínimos esforços, ortopneia e anasarca, que se iniciaram 2 meses antes. Negava
+				angina de peito, infarto do miocárdio prévio e síncopes. Sabia ser portadora de
+				hipertensão arterial sistêmica e diabetes mellitus, em tratamento em Unidade Básica
+				de Saúde. Era tabagista (20 maços/ano), com parada do hábito havia 2 meses. Negava
+				uso de bebidas alcoólicas e drogas ilícitas. Não havia história familiar de doença
+				cardiovascular.</p>
+			<p>Fazia uso de metformina 2550 mg/dia, furosemida 80 mg/dia, carvedilol 12,5 mg/dia, e
+				losartana 50 mg/dia.</p>
+			<p>O exame físico na primeira consulta revelava paciente em regular estado geral,
+				dispneica em decúbito horizontal. A pressão arterial aferida era de 100/70 mmHg, a
+				frequência cardíaca era de 102 bpm, a ausculta pulmonar revelava murmúrio vesicular
+				abolido em base do hemitórax direito sem ruídos respiratórios anormais. A ausculta
+				cardíaca revelava ritmo regular, em galope, por presença de terceira bulha e
+				ausência de sopros. O abdome era globoso, tenso, indolor e com sinais de ascite
+				volumosa. As extremidades eram frias e edemaciadas (++/4+), com pulsos
+				simétricos.</p>
+			<p>O eletrocardiograma realizado para a consulta revelava ritmo sinusal, com frequência
+				cardíaca de 97 bpm, sobrecarga atrial esquerda e sinais indiretos de sobrecarga
+				atrial direita (sinal de Peñaloza-Tranchesi), baixa voltagem dos complexos QRS no
+				plano frontal e não progressão de onda R de V<sub>1</sub> até V<sub>4</sub>
+				(provável área eletricamente inativa na parede anterior) e alterações difusas da
+				repolarização ventricular (<xref ref-type="fig" rid="f9">Figura 1</xref>).</p>
+			<p>
+				<fig id="f9">
+					<label>Figura 1</label>
+					<caption>
+						<title>ECG: sobrecarga atrial esquerda e sinais indiretos de sobrecarga
+							atrial direita (Sinal de Peñaloza-Tranchesi), baixa voltagem dos
+							complexos QRS no plano frontal e não progressão de onda R de
+								V<sub>1</sub> até V<sub>4</sub> (provável área eletricamente inativa
+							parede anterior) e alterações difusas da repolarização
+							ventricular.</title>
+					</caption>
+					<graphic xlink:href="0066-782X-abc-109-01-0081-gf01-pt.tif"/>
+				</fig>
+			</p>
+			<p>A radiografia de tórax mostrava velamento de seios costofrênicos bilateralmente, com
+				derrame pleural até metade do hemitórax direito, aorta de aspecto normal e
+				cardiomegalia global ++++/4+ (<xref ref-type="fig" rid="f10">Figura 2</xref>).</p>
+			<p>
+				<fig id="f10">
+					<label>Figura 2</label>
+					<caption>
+						<title>Radiografa de tórax: velamento de seios costofrênicos bilateralmente,
+							com derrame pleural até metade do hemitórax direito; aorta de aspecto
+							normal e cardiomegalia global ++++/4+.</title>
+					</caption>
+					<graphic xlink:href="0066-782X-abc-109-01-0081-gf02-pt.tif"/>
+				</fig>
+			</p>
+			<p>Os exames laboratoriais monstravam: hemoglobina 14,8 g/dL; hematócrito 46%;
+				leucócitos 9950/mm<sup>3</sup>; creatinina 0,87 mg/dL; sódio 141 mg/dL; potássio 4,3
+				mg/dL e sorologia para doença de Chagas negativa.</p>
+			<p>Nessa consulta, foi acrescentada espironolactona 25 mg e trocada metformina (por
+				intolerância gastrointestinal) por glicazida 30 mg/dia.</p>
+			<p>Em consulta de retorno ambulatorial (16 de dezembro de 2015), relatou melhora
+				acentuada da dispneia, que era desencadeada somente aos grandes esforços. O exame
+				físico revelava ausência de turgência jugular patológica, pressão arterial de 100/70
+				mmHg, frequência cardíaca de 100 bpm. A ausculta pulmonar revelava murmúrio
+				vesicular abolido em base direita, e a cardíaca, presença de terceira bulha, sem
+				sopros. O abdome era globoso, tenso, indolor, com fígado palpável a 3cm do rebordo
+				costal direito. Havia discreto edema de membros inferiores (+/4+). Não havia
+				realizado os exames solicitados na primeira consulta. Nessa consulta, foi trocado
+				carvedilol por metoprolol 50 mg/dia.</p>
+			<p>Após faltar à consulta subsequente, a paciente foi internada no dia 25 de julho de
+				2016, por descompensação do quadro de insuficiência cardíaca, em choque misto, com
+				diminuição do nível de consciência e aumento dos marcadores de lesão miocárdica.
+				Evoluiu com necessidade de dobutamina para controle hemodinâmico. Foi iniciada
+				antibioticoterapia empírica com ceftriaxona e claritromicina, sendo a paciente
+				posteriormente submetida a intubação orotraqueal para suporte respiratório.</p>
+			<p>A radiografia desse dia, no leito, evidenciou velamento de seios costofrênicos
+				bilateralmente, com hipotransparência de terço inferior de hemitórax direito
+				(derrame pleural), aumento da trama vascular pulmonar, com linhas B de Kerley e
+				cardiomegalia acentuada (<xref ref-type="fig" rid="f11">Figura 3</xref>).</p>
+			<p>
+				<fig id="f11">
+					<label>Figura 3</label>
+					<caption>
+						<title>Radiografa de tórax, no leito: velamento de seios costofrênicos
+							bilateralmente, com derrame pleural até metade do hemitórax direito;
+							aorta de aspecto normal e cardiomegalia global ++++/4+.</title>
+					</caption>
+					<graphic xlink:href="0066-782X-abc-109-01-0081-gf03-pt.tif"/>
+				</fig>
+			</p>
+			<p>Os exames laboratoriais revelavam: hemoglobina 14,1 g/dL; hematócrito 44%; leucócitos
+					15100/mm<sup>3</sup> (bastões 6%, segmentados 84%, linfócitos 5% e monócitos
+				5%); plaquetas 195000/mm<sup>3</sup>; CK-MB 9,7 ng/mL; troponina I 0,654 ng/mL; ALT
+				42 U/L; AST 80 U/L; ureia 87 mg/dL; creatinina 1,18 mg/dL; sódio 132 mEq/L; potássio
+				3,5 mEq/L; relação de tempos de atividade de protrombina (INR) de 2,3; relação de
+				tempos de tromboplastina ativada de 1,06; magnésio 1,6 mEq/L; bilirrubinas totais
+				3,14 mg/dL; bilirrubina direta 2,19 mg/dL; proteína C-reativa 156,50 mg/L; lactato
+				arterial 22 mg/dL. A gasometria arterial (com oxigenoterapia) revelava pH de 7,52,
+					pCO<sub>2</sub> de 29,6 mmHg, pO<sub>2</sub> de 176 mmHg, saturação de oxigênio
+				de 99,9%, bicarbonato de 24,1 mmol/L e excesso de bases de 2,2 mmol/L.</p>
+			<p>O ecocardiograma transtorácico, à beira do leito, revelou: ventrículo esquerdo com
+				hipocinesia difusa e fração de ejeção de 20%; ventrículo direito com hipocinesia
+				acentuada; valvas mitral e tricúspide com insuficiência acentuada e falha de
+				coaptação das suas cúspides; valva pulmonar com sinais de hipertensão pulmonar;
+				discreto derrame pericárdico e presença de grande massa heterogênea em ventrículo
+				esquerdo, medindo 30x28 mm, compatível com trombo intracavitário. A pressão
+				sistólica da artéria pulmonar foi estimada em 65 mmHg.</p>
+			<p>A cineangiocoronariografia revelou coronárias sem lesões proximais, mas o ramo
+				interventricular anterior apresentava lesão de 95% distal, e o ramo diagonal,
+				oclusão distal. Não havia sinais de obstrução no ramo circunflexo e na artéria
+				coronária direita (<xref ref-type="fig" rid="f12">Figuras 4A</xref>, <xref
+					ref-type="fig" rid="f12">4B</xref>, <xref ref-type="fig" rid="f12">4C</xref>,
+					<xref ref-type="fig" rid="f12">4D</xref>).</p>
+			<p>
+				<fig id="f12">
+					<label>Figura 4</label>
+					<caption>
+						<title>Cinecoronariografa: 4A: OAD caudal: lesão distal de 95% em ramo
+							descendente anterior e oclusão diagonal; 4B: OAD cranial: lesão distal
+							de 95% e oclusão distal de diagonal; 4C: OAE cranial: lesão distal de
+							95% ramo descendente anterior; 4D: OAE: coronária direita sem
+							lesões.</title>
+					</caption>
+					<graphic xlink:href="0066-782X-abc-109-01-0081-gf04-pt.tif"/>
+				</fig>
+			</p>
+			<p>Com tais achados, aventou-se a hipótese de infarto de causa embólica. A paciente foi
+				então encaminhada para a UTI, com aumento progressivo de drogas vasoativas,
+				posterior introdução de noradrenalina e escalonamento antimicrobiano para meropenem
+				e vancomicina. Evoluiu com choque refratário e óbito no dia 27 de julho de 2016, com
+				disfunção de múltiplos órgãos.</p>
+			<sec>
+				<title>Aspectos clínicos</title>
+				<p>Este caso pode ser entendido sob dois aspectos: doença crônica e descompensação
+					aguda. Na primeira vertente, podem-se aventar algumas possibilidades sobre a
+					etiologia do quadro de insuficiência cardíaca da paciente. Com a sorologia
+					negativa para Chagas e as comorbidades conhecidas, as principais hipóteses
+					possíveis são cardiopatia hipertensiva (fase dilatada), doença da
+					microcirculação pelo diabetes mellitus e miocardiopatia dilatada
+						idiopática.<xref ref-type="bibr" rid="B1">1</xref><sup>-</sup><xref
+						ref-type="bibr" rid="B3">3</xref> A paciente tinha comparecido a apenas duas
+					consultas, estando a investigação complementar ainda inacabada. Com relação ao
+					quadro de descompensação aguda, num primeiro momento, estava relativamente claro
+					que a hipótese infecciosa era a mais plausível e a elevação de marcadores de
+					necrose miocárdica provavelmente estava relacionada à sepse e à instabilidade
+					hemodinâmica (infarto agudo do miocárdio tipo 2). No entanto, após os resultados
+					dos outros exames complementares (ecocardiograma e cineangiocoronariografia), a
+					hipótese de infarto agudo do miocárdio de causa embólica fica mais evidente,
+					principalmente devido à observação de trombo intracavitário no primeiro exame. A
+					hipótese que se impõe, então, é que a disfunção importante do ventrículo
+					esquerdo proporcionou a formação do trombo e um fragmento desse embolizou para a
+					circulação coronariana, dando origem ao infarto agudo do miocárdio, culminando
+					em piora da disfunção, deflagrando, por conseguinte, a cascata que levou a
+					paciente ao óbito.</p>
+				<p>Entre as causas de êmbolos coronários temos doença valvar, miocardiopatia,
+					aterosclerose coronária e fibrilação atrial. Em estudo de necropsia de Prizel et
+						al.,<xref ref-type="bibr" rid="B4">4</xref> um trombo intracavitário esteve
+					presente em 33% dos casos. Não se pode afastar, no entanto, causa infecciosa
+					sobreposta para a descompensação. <bold>(Dr. João Gabriel Batista
+					Lage)</bold></p>
+				<p><bold>Hipótese diagnóstica</bold>: sindrômica: insuficiência cardíaca por
+					cardiopatia com redução da fração de ejeção do ventrículo esquerdo; etiológica:
+					cardiomiopatia dilatada.</p>
+				<p>Quadro final: infarto agudo do miocárdio por tromboembolismo para coronária e
+					choque cardiogênico. <bold>(Dr. João Gabriel Batista Lage)</bold></p>
+			</sec>
+			<sec>
+				<title>Necropsia</title>
+				<p>À necropsia, o coração apresentava dilatação global das quatro câmaras (<xref
+						ref-type="fig" rid="f13">Figura 5</xref>), sem alterações significativas em
+					valvas e artérias coronárias. Ao estudo microscópico, não havia infiltrado
+					inflamatório ou qualquer tipo de depósito, e as fibras musculares mostravam-se
+					afiladas e com núcleo aumentado, denotando hipertrofia. As pontas de ambos os
+					ventrículos apresentam trombose (<xref ref-type="fig" rid="f13">Figura
+					5</xref>). O diagnóstico de hipertensão arterial sistêmica baseou-se apenas na
+					informação da paciente, e não havia arteriolosclerose renal. Assim, na falta de
+					estudo genético, não é possível ter certeza de se tratar de miocardiopatia
+					hipertensiva descompensada ou miocardiopatia dilatada idiopática, que parece
+					mais provável.</p>
+				<p>
+					<fig id="f13">
+						<label>Figura 5</label>
+						<caption>
+							<title>Corte longitudinal do coração mostrando dilatação das
+								cavidades.</title>
+						</caption>
+						<graphic xlink:href="0066-782X-abc-109-01-0081-gf05-pt.tif"/>
+					</fig>
+				</p>
+				<p>Havia também infarto do miocárdio, com aproximadamente 2 semanas de evolução,
+					atingindo a região apical das paredes anterior e septal do ventrículo esquerdo
+						(<xref ref-type="fig" rid="f13">Figuras 5</xref> e <xref ref-type="fig"
+						rid="f14">6</xref>). O estudo microscópico das artérias coronárias
+					mostrou-as praticamente normais ou com lesões intimais mínimas (<xref
+						ref-type="fig" rid="f15">Figuras 7A</xref> e <xref ref-type="fig" rid="f15"
+						>7B</xref>). No 6<sup>o</sup> centímetro do ramo interventricular anterior
+					(descendente anterior), havia material ocluindo sua luz, com características
+					típicas de trombo-êmbolo (<xref ref-type="fig" rid="f15">Figura 7C</xref>).</p>
+				<p>
+					<fig id="f14">
+						<label>Figura 6</label>
+						<caption>
+							<title>Aproximação de corte longitudinal do coração mostrando a região
+								da ponta com trombos em ambos os ventrículos (asteriscos) e infarto
+								do miocárdio (setas).</title>
+						</caption>
+						<graphic xlink:href="0066-782X-abc-109-01-0081-gf06-pt.tif"/>
+					</fig>
+				</p>
+				<p>
+					<fig id="f15">
+						<label>Figura 7</label>
+						<caption>
+							<title>Cortes histológicos transversais de segmentos de artérias
+								coronárias. A e B- artéria coronária direita e tronco da artéria
+								coronária esquerda, respectivamente, ambas mostrando túnica íntima
+								(delimitada pelas setas) sem obstruções signifcativas; C- 6° cm do
+								ramo interventricular anterior (descendente anterior) com oclusão
+								por trombo-êmbolo.</title>
+						</caption>
+						<graphic xlink:href="0066-782X-abc-109-01-0081-gf07-pt.tif"/>
+					</fig>
+				</p>
+				<p>Nos lobos inferiores dos pulmões, havia infartos, pequeno à esquerda e grande à
+					direita (<xref ref-type="fig" rid="f16">Figura 8</xref>). Foram considerados o
+					fator final desencadeante do óbito.</p>
+				<p>
+					<fig id="f16">
+						<label>Figura 8</label>
+						<caption>
+							<title>Corte do pulmão direito mostrando infarto hemorrágico no lobo
+								inferior (área triangular mais escura).</title>
+						</caption>
+						<graphic xlink:href="0066-782X-abc-109-01-0081-gf08-pt.tif"/>
+					</fig>
+				</p>
+				<p>Nos demais órgãos, encontraram-se alterações decorrentes de insuficiência
+					cardíaca congestiva, com congestão passiva crônica, congestão visceral
+					generalizada, anasarca e caquexia. <bold>(Dr. Paulo Sampaio
+					Gutierrez)</bold></p>
+				<p><bold>Doença principal</bold>: miocardiopatia dilatada idiopática.</p>
+				<p><bold><italic>Causa mortis:</italic></bold> tromboembolismo pulmonar <bold>(Dr.
+						Paulo Sampaio Gutierrez)</bold></p>
+			</sec>
+			<sec>
+				<title>Comentários</title>
+				<p>O aspecto que chama a atenção neste caso de paciente com miocardiopatia dilatada
+					é a presença de infarto do miocárdio; em sua região, havia trombose mural, tanto
+					no ventrículo direito quanto no esquerdo. O ponto principal é a causa do
+					infarto. As artérias coronárias, tanto à cineangiocoronariografia quanto ao
+					exame morfológico, não têm doença aterosclerótica significativa, mas apresentam
+					embolização distal de ramo interventricular anterior (descendente anterior).
+					Juntando-se o achado cineangiocoronariográfico com a existência do infarto,
+					pode-se considerar que, de fato, esse último tenha decorrido de embolização para
+					artéria coronária. O infarto do miocárdio - como, posteriormente, o do pulmão -
+					deve ter sido causado por embolia a partir das tromboses ventriculares. É
+					interessante perceber que, por coincidência, o infarto acabou acontecendo na
+					mesma área do trombo que o originou. Outra possibilidade seria que o infarto
+					tenha sido decorrente de outro processo, como vasoespasmo, gerando trombose, que
+					causou a embolia terminal.</p>
+				<p>Ainda que haja na literatura relatos de casos semelhantes,<xref ref-type="bibr"
+						rid="B5">5</xref><sup>,</sup><xref ref-type="bibr" rid="B6">6</xref> o
+					aparecimento de infarto transmural em pacientes com miocardiopatia dilatada
+					idiopática é incomum. <bold>(Dr. Paulo Sampaio Gutierrez)</bold></p>
+				<p><bold>Editor da Seção:</bold> Alfredo José Mansur
+						(<email>ajmansur@incor.usp.br</email>)</p>
+				<p><bold>Editores Associados:</bold> Desidério Favarato
+						(<email>dclfavarato@incor.usp.br</email>)</p>
+				<p>Vera Demarchi Aiello (<email>vera.aiello@incor.usp.br</email>)</p>
+			</sec>
+		</body>
+	</sub-article>
+</article>

@@ -1,0 +1,3 @@
+[run]
+source = texture_warpper
+omit = texture_warpper/test*
