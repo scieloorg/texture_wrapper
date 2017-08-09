@@ -29,8 +29,3 @@ def packages(request):
 @view_config(route_name='editor', renderer='templates/editor.mako')
 def editor(request):
     return {'project': 'texture_wrapper'}
-
-
-@view_config(route_name='editor_raw', renderer='templates/editor_raw.mako')
-def editor_raw(request):
-    return {'project': 'texture_wrapper'}

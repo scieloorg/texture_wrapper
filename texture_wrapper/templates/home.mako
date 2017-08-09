@@ -7,6 +7,6 @@
 </section>
 <!-- Main content -->
 <section class="content">
-    Home Content
+    Texture Wrapper was developed to facilitate....
 </section>
 </%block>
