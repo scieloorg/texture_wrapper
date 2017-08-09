@@ -43,7 +43,6 @@
           elements = xml.getElementsByTagName(xlinked_elements[xlinked_element])
           for (i = 0; i < elements.length; i++) {
             content = elements[i].getAttribute("xlink:href")
-            alert(content.indexOf('http'))
             if (content.indexOf('http') == -1) {
               elements[i].setAttribute("xlink:href", basedir + '/'+ content)
             }

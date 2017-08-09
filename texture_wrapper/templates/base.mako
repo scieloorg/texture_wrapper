@@ -3,11 +3,12 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>SciELO Texture Wrapper</title>
+    <title>Texture Wrapper</title>
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <!-- Bootstrap 3.3.6 -->
     <link rel="stylesheet" href="/static/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/static/bootstrap/css/jquery.dataTables.min.css">
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
     <!-- Ionicons -->
@@ -17,6 +18,7 @@
     <!-- AdminLTE Skins. Choose a skin from the css/skins
          folder instead of downloading all of them to reduce the load. -->
     <link rel="stylesheet" href="/static/adminlte/css/skins/_all-skins.min.css">
+    
     <%block name="context_header" />
   </head>
   <body class="hold-transition skin-blue layout-top-nav">
@@ -26,7 +28,7 @@
           <div class="navbar-header">
             <!-- Logo -->
             <a href="/" class="navbar-brand">
-              SciELO Texture Wrapper
+              Texture Wrapper
             </a>
           </div>
           <div class="collapse navbar-collapse pull-left" id="navbar-collapse">
@@ -55,6 +57,9 @@
 
     <!-- jQuery 2.2.3 -->
     <script src="/static/plugins/jQuery/jquery-2.2.3.min.js"></script>
+    <script src="/static/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/static/bootstrap/js/jquery.dataTables.min.js"></script>
+    <script src="/static/bootstrap/js/dataTables.bootstrap.min.js"></script>
     <!-- jQuery UI 1.11.4 -->
     <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
     <!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
@@ -69,5 +74,6 @@
     <script src="/static/plugins/fastclick/fastclick.js"></script>
     <!-- AdminLTE App -->
     <script src="/static/adminlte/js/app.min.js"></script>
+    <%block name="extra_js" />
   </body>
 </html>
