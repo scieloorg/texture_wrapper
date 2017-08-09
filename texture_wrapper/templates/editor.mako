@@ -28,7 +28,7 @@
       }
 
     </style>
-    <script type="text/javascript" src="/static/texture/substance/dist/substance.js"></script>
+    <script type="text/javascript" src="/static/texture/substance/substance.js"></script>
     <script type="text/javascript" src="/static/texture/texture.js"></script>
     <script type="text/javascript" src="/static/texture/vfs.js"></script>
     <script type="text/javascript">
