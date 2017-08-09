@@ -1,2 +1,3 @@
-include *.txt *.ini *.cfg *.rst *.map
-recursive-include texture_wrapper *.ico *.png *.css *.gif *.jpg *.pt *.txt *.mak *.mako *.js *.html *.xml *.jinja2 *.tif *.pdf *.xml *.mako *.map
+include *.txt *.ini *.cfg *.rst
+recursive-include texture_wrapper *.ico *.png *.css *.gif *.jpg *.pt *.txt *.mak *.mako *.js *.html *.xml *.jinja2 *.tif *.pdf *.xml *.mako
+recursive-include texture *

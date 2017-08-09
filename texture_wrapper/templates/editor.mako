@@ -32,6 +32,25 @@
     <script type="text/javascript" src="/static/texture/texture.js"></script>
     <script type="text/javascript" src="/static/texture/vfs.js"></script>
     <script type="text/javascript">
+      function replace_assets_basedir(xml, basedir) {
+        var xlinked_elements = ['graphic', 'media', 'inline-graphic', 'supplementary-material', 'inline-supplementary-material']
+        basedir = basedir.split('/')
+        basedir.pop()
+        basedir = basedir.join('/')
+        
+        // Add a new attribute to each title element
+        for (xlinked_element in xlinked_elements){
+          elements = xml.getElementsByTagName(xlinked_elements[xlinked_element])
+          for (i = 0; i < elements.length; i++) {
+            content = elements[i].getAttribute("xlink:href")
+            alert(content.indexOf('http'))
+            if (content.indexOf('http') == -1) {
+              elements[i].setAttribute("xlink:href", basedir + '/'+ content)
+            }
+          }
+        }
+      } 
+
       const { Texture } = window.texture
 
       // Loading XML: In this example we use a bundled virtual file-system
@@ -42,6 +61,9 @@
 
       window.onload = function() {
         $.get(file, function(data) {
+
+          replace_assets_basedir(data, file)
+
           window.app = Texture.mount({
             documentId: file,
             /*
