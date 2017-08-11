@@ -15,7 +15,6 @@ def packages(request):
 
     data = {'project': 'texture_wrapper'}
 
-    import pdb; pdb.set_trace()
     xml_files = []
     for root, subdirs, files in os.walk(XML_FILES):
         for file in files:
