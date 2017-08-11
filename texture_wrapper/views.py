@@ -3,6 +3,7 @@ import os
 from pyramid.view import view_config
 
 APP_PATH = os.path.dirname(os.path.realpath(__file__))
+XML_FILES = os.environ.get('XML_FILES', '%s/files' % APP_PATH)
 
 @view_config(route_name='home', renderer='templates/home.mako')
 def home(request):
@@ -14,8 +15,9 @@ def packages(request):
 
     data = {'project': 'texture_wrapper'}
 
+    import pdb; pdb.set_trace()
     xml_files = []
-    for root, subdirs, files in os.walk('%s/files' % APP_PATH):
+    for root, subdirs, files in os.walk(XML_FILES):
         for file in files:
             if file[-3:] != 'xml':
                 continue

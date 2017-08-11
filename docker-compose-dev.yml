@@ -6,9 +6,10 @@ services:
       context: .
       dockerfile: Dockerfile-dev
     hostname: texture-wrapper
+    environment:
+      - XML_FILES=/app/texture_wrapper/files
     volumes:
       - .:/app
-      # - ./xmls:/app/texture_wrapper/files
     stdin_open: True
     tty: True
     ports:
